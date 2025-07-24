@@ -1,0 +1,9 @@
+Generative AI
+
+Vincent van Gogh in watercolour created by generative AI software
+These paragraphs are an excerpt from Generative artificial intelligence.[edit]
+Generative artificial intelligence (Generative AI, GenAI,[170] or GAI) is a subfield of artificial intelligence that uses generative models to produce text, images, videos, or other forms of data.[171][172][173] These models learn the underlying patterns and structures of their training data and use them to produce new data[174][175] based on the input, which often comes in the form of natural language prompts.[176][177]
+
+Generative AI tools have become more common since the AI boom in the 2020s. This boom was made possible by improvements in transformer-based deep neural networks, particularly large language models (LLMs). Major tools include chatbots such as ChatGPT, Copilot, Gemini, Claude, Grok, and DeepSeek; text-to-image models such as Stable Diffusion, Midjourney, and DALL-E; and text-to-video models such as Veo and Sora.[178][179][180][181] Technology companies developing generative AI include OpenAI, Anthropic, Meta AI, Microsoft, Google, DeepSeek, and Baidu.[176][182][183]
+
+Generative AI has raised many ethical questions as it can be used for cybercrime, or to deceive or manipulate people through fake news or deepfakes.[184] Even if used ethically, it may lead to mass replacement of human jobs.[185] The tools themselves have been criticized as violating intellectual property laws, since they are trained on copyrighted works.[186]

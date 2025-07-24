@@ -21,6 +21,7 @@ This project is a **private document-aware chatbot** that can answer questions b
 7. Streamlit UI allows interactive question-answering
 
 ---
+you can get LLM MODE:[Click here to download](https://drive.google.com/uc?export=download&id=1biX_1VjBjSyGiKjSAEOtLoVYK7Q2VYg-) 
 
 ## 🧠 Features
 
